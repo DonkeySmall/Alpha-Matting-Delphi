@@ -54,7 +54,7 @@ type
 
 type
   POutputDataMatting = ^TOutputDataMatting;
-  TOutputDataMatting = array [0 .. MattingInputSize * MattingInputSize - 1] of Float32;
+  TOutputDataMatting = array [0 .. MattingOutputSize * MattingOutputSize - 1] of Float32;
 
 procedure TForm1.LoadImage;
 var
