@@ -1,5 +1,5 @@
 # Alpha-Matting-Delphi
-Trimap alpha matting
+Trimap Alpha Matting
 
 Source
 
